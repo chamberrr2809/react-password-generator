@@ -1,0 +1,11 @@
+.btn {
+  position: relative;
+  top: 65px;
+  right: 224px;
+}
+
+.checkbox {
+  position: absolute;
+  top: 120px;
+  left: 8px;
+}
